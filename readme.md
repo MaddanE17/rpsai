@@ -1,6 +1,6 @@
-# Project Name
+# RPSAI
 
- Add short description of project here > 
+ A rock paper scissors bot that reads whatever symbol you show and responds accordingly > 
 
 ![add image descrition here](direct image link here)
 
